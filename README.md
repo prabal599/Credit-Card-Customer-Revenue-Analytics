@@ -193,49 +193,6 @@ Scatter Plot
 
 ---
 
-## Dashboard 3 — Transaction & Revenue Analytics
-
-### Key Analysis
-
-* Monthly transaction trends
-* Monthly revenue trends
-* Merchant category performance
-* Payment method usage
-* Card type performance
-* Average transaction value
-
-### Example Visuals
-
-* Line chart
-* Clustered column chart
-* Donut chart
-* Treemap
-* KPI cards
-* Matrix
-
----
-
-## Dashboard 4 — Risk & Credit Analytics
-
-### Key Analysis
-
-* Credit score distribution
-* Outstanding balance
-* Credit limit
-* Credit utilization
-* Payment status
-* Risk indicators
-* High-balance customers
-
-### Example Metrics
-
-```text
-Credit Utilization =
-Outstanding Balance / Credit Limit
-```
-
----
-
 # 📈 Key Business Questions
 
 The project answers questions such as:
