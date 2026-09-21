@@ -270,16 +270,6 @@ Focus marketing and product strategies on customer segments with strong spending
 
 ---
 
-# 📸 Dashboard Preview
-
-## Executive Overview
-
-![Executive Dashboard](screenshots/dashboard_overview.png)
-
-## Customer Analytics
-
-![Customer Dashboard](screenshots/customer_analysis.png)
-
 ---
 
 # 📊 Project Deliverables
